@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aaravmishra24
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python from freecodecamp
+- 💞️ I’m 14 years old hight school student from india
